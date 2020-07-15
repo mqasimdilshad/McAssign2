@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/invisible"
+        android:top="3dp"
+        android:bottom="3dp"
+        android:left="5dp"
+        android:right="5dp"
+        ></item>
+    <item android:drawable="@drawable/camera"
+        android:top="10dp"
+        android:bottom="10dp"
+        android:left="10dp"
+        android:right="10dp"
+        android:width="18dp"
+        android:height="16dp"></item>
+</layer-list>
